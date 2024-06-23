@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
 <h3 align="center">A geek when it comes to anything that not related to frontend.</h3>
 
