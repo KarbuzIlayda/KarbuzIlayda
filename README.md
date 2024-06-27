@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **Firebase and Couchbase.**
 
-- ⚡ Fun fact **Whenever I start searching I can't see the finish line.**
+- ⚡ Fun fact **whenever I start searching I can't see the finish line.**
+
+- 📫 How to reach me **ilaydakarbuz@gmail.com**
 
 <p align="justify">
 </p>
@@ -28,4 +30,6 @@
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karbuzilayda&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="karbuzilayda" /></p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karbuzilayda&theme=dark" alt="karbuzilayda" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karbuzilayda&label=Profile%20views&color=0e75b6&style=flat" alt="karbuzilayda" /> </p>
 
